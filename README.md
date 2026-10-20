@@ -8,3 +8,9 @@
 3. Скопіюйте вміст архіву та вставте його в корневу папку гри, погоджуючись на заміну файлів.
 4. Запустіть гру та в меню налаштувань змініть мову на Ukrainian, та ОБОВ'ЯЗКОВО перезайдіть в гру. 
 5. Насолоджуйтесь Українським перекладом гри CrossCode. 
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/d2c68066-e3b4-4316-b253-823da91c840c" />
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/fe1d4a6f-b639-4a74-ae13-479876aa1940" />
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/3cbb8402-0c0d-4d5a-89b2-1cff59bd5708" />
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/12219519-02eb-4707-ba71-abfc3430aadc" />
+( Останнє зображення з DLC A New Home)
+Якщо знайдете помилки в перекладі - створіть будь ласка Issue та вкажіть точний фрагмент тексту та локацію, і коли це відбувалосю. ДЯКУЮ!
