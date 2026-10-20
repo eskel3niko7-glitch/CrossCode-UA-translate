@@ -1,5 +1,7 @@
-# CrossCode-UA-translate
-Повний Український переклад гри CrossCode. фанатсько-AI перекладений. Включає як повний переклад основної гри, так і DLC " A New Home ", та додаткові моди для покращення досвіду гри. <img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/d4aef9c7-9323-4f27-9deb-344c99bd1013" />
+# CrossCode-UA-translatiom
+Повний Український переклад гри CrossCode. фанатсько-AI перекладений. Включає як повний переклад основної гри, так і DLC " A New Home ", та додаткові моди для покращення досвіду гри.  
+A complete Ukrainian translation of the game *CrossCode*, created using a combination of human and AI translation. It includes a full translation of the base game and the "A New Home" DLC, along with additional mods to enhance the gameplay experience.
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/d4aef9c7-9323-4f27-9deb-344c99bd1013" />
 
 Повний переклад Гри CrossCode на Українську мову. створений фанатом за допомогою AI. Включає повний переклад основної гри, так і DLS " A New Home ". Також включає збірку модів. CCloader - основна база модингу CrossCode, не змінює гру, але дозволяє інтегрувати будь які інші модифікації для зміни коду гри. Localize Me - мод фреймворк для додавання нових мов , без якого гра не зможе зчитувати сторонні мовні паки. Ultimate Localized UI - Мод для виправлень, покращень, адаптацію інтерфейсу користувача, підтримка шрифтів та кирилиці. CrossCode-ua - власне сам мод перекладу зі всіма діалогами, спрайтами, тощо. World Map OverHaul - додає більш деталізовану та покращену графічну карту світу. 
 ІНСТРУКЦІЯ ДЛЯ ЗАВАНТАЖЕННЯ АРХІВУ crosscode-ua_quick-install_v1.3.8 та інтеграції його в гру: 
