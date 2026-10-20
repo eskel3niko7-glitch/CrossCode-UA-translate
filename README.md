@@ -1,4 +1,4 @@
-# CrossCode-UA-translatiom
+# CrossCode-UA-translation
 Повний Український переклад гри CrossCode. фанатсько-AI перекладений. Включає як повний переклад основної гри, так і DLC " A New Home ", та додаткові моди для покращення досвіду гри.  
 A complete Ukrainian translation of the game *CrossCode*, created using a combination of human and AI translation. It includes a full translation of the base game and the "A New Home" DLC, along with additional mods to enhance the gameplay experience.
 <img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/d4aef9c7-9323-4f27-9deb-344c99bd1013" />
